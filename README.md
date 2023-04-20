@@ -1,2 +1,2 @@
-# PhoneBook
-I made a phonebook to show my beginner c experience and algorithm logic. 
+# Basic C programs
+I'll upload basc c programs in this repositorie. 
