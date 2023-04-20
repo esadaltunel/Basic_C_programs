@@ -1,2 +1,2 @@
 # Basic C programs
-I'll upload basc c programs in this repositorie. 
+I'll upload basic c codes in this repository.  
